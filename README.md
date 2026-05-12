@@ -1,0 +1,2 @@
+# ChatGPT_With_Langgraph
+Building a conversational AI chatbot using LangGraph to explore stateful workflows, multi-step reasoning, and agent orchestration. The project is focusing on learning how LLM-powered applications manage conversation state, routing, memory, and tool execution using graph-based architectures. Implementing modular nodes, conditional edges, and structured state management to create a scalable and maintainable chatbot workflow.
